@@ -6,3 +6,7 @@ This project assignment is prepared for the 'Kodluyoruz' HTML course. It include
 ---
 
 ![second preview image](preview2.png)
+
+---
+
+![second preview image](preview3.png)
