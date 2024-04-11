@@ -9,4 +9,4 @@ This project assignment is prepared for the 'Kodluyoruz' HTML course. It include
 
 ---
 
-![second preview image](preview3.png)
+![third preview image](preview3.png)
