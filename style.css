@@ -29,7 +29,24 @@ body {
     text-decoration: none;
 }
 
+.info-span {
+    text-decoration: underline;
+    color:#82003b;
+    font-weight: bold;
+}
 
+.info-p {
+    display: inline;
+    margin-right: 20px;
+}
+
+.recipe-title {
+    padding:10px;
+    background-color:#fd2c8a;
+    color:white;
+    display: inline;
+    border-radius: 40px;
+}
 
 #page-content-div, section {
     width: 60%;

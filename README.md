@@ -1,15 +1,15 @@
 # First Web Page - About Me
-This project assignment is prepared for the 'Kodluyoruz' HTML course. It includes two HTML pages, one where I introduce myself and another focusing on the example usage of semantic elements.
+This project assignment is prepared for the 'Kodluyoruz' HTML course. It includes three HTML pages: a self-introduction page, a recipe page, and examples of the use of semantic elements.
 
-![preview image](preview.png)
-
----
-
-![second preview image](preview2.png)
+![preview image](img/preview-images/preview.png)
 
 ---
 
-![third preview image](preview3.png)
+![second preview image](img/preview-images/preview2.png)
+
+---
+
+![third preview image](img/preview-images/preview3.png)
 
 ---
 
@@ -17,8 +17,16 @@ This project assignment is prepared for the 'Kodluyoruz' HTML course. It include
 
 
 
-![fourth preview image](preview4.png)
+![fourth preview image](img/preview-images/preview4.png)
 
 ---
 
-![fifth preview image](preview5.png)
+![fifth preview image](img/preview-images/preview5.png)
+
+---
+
+## Recipe
+
+![sixth preview image](img/preview-images/preview6.png)
+
+
