@@ -10,3 +10,15 @@ This project assignment is prepared for the 'Kodluyoruz' HTML course. It include
 ---
 
 ![third preview image](preview3.png)
+
+---
+
+## Semantic HTML5 Elements
+
+
+
+![fourth preview image](preview4.png)
+
+---
+
+![fifth preview image](preview5.png)
